@@ -1,0 +1,32 @@
+{
+  "siteName": "Sai Krishna Dasari | AI/ML Engineer | Data Scientist",
+  "theme": "light",
+  "loaderInitials": [
+    "S",
+    "K"
+  ],
+  "metaDescription": "Sai Krishna Dasari — AI/ML Engineer | Data Scientist. Portfolio showcasing professional experience, skills, and projects.",
+  "metaKeywords": "Sai Krishna Dasari, AI/ML Engineer | Data Scientist, Portfolio",
+  "progressCheckpoints": [
+    {
+      "id": "hero",
+      "label": "Home"
+    },
+    {
+      "id": "about",
+      "label": "About"
+    },
+    {
+      "id": "experience",
+      "label": "Journey"
+    },
+    {
+      "id": "skills",
+      "label": "Skills"
+    },
+    {
+      "id": "contact",
+      "label": "Contact"
+    }
+  ]
+}

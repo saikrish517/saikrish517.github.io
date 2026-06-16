@@ -1,0 +1,44 @@
+{
+  "heading": "ABOUT",
+  "paragraphs": [
+    {
+      "text": "AI/ML Engineer with 4+ years of experience developing machine learning models, NLP applications, recommendation systems, fraud analytics solutions, and scalable AI pipelines using Python, TensorFlow, PyTorch, Scikit-learn, SQL, and AWS. Hands-on experience building LLM-powered applications, real-time inference systems, predictive analytics workflows, and MLOps pipelines supporting enterprise fintech environments. Strong background in feature engineering, model optimization, API development, time-series forecasting, model deployment, and cloud-based machine learning solutions using LangChain, MLflow, Docker, Kubernetes, FastAPI, Kafka, and SageMaker. Experienced collaborating with analytics, engineering, and business teams delivering production-ready artificial intelligence solutions supporting operational efficiency and data-driven decision-making.",
+      "highlights": []
+    },
+    {
+      "text": "Experienced ai/ml engineer | data scientist with {yearsExp} of hands-on experience across {industries}.",
+      "highlights": [
+        {
+          "text": "1+ years",
+          "color": "yellow",
+          "key": "yearsExp"
+        },
+        {
+          "text": "fintech, banking, data analytics",
+          "color": "pink",
+          "key": "industries"
+        }
+      ]
+    },
+    {
+      "text": "I bring a unique blend of {blend1}, {blend2}, and a genuine enthusiasm for {blend3}.",
+      "highlights": [
+        {
+          "text": "technical expertise",
+          "color": "yellow",
+          "key": "blend1"
+        },
+        {
+          "text": "collaborative leadership",
+          "color": "green",
+          "key": "blend2"
+        },
+        {
+          "text": "building impactful solutions",
+          "color": "cyan",
+          "key": "blend3"
+        }
+      ]
+    }
+  ]
+}

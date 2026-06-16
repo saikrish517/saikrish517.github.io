@@ -1,0 +1,79 @@
+{
+  "heading": "My Journey",
+  "positions": [
+    {
+      "title": "AI/ML Engineer",
+      "company": "Mastercard",
+      "startDate": "Mar 2025",
+      "endDate": "Present",
+      "description": "Increased fraud detection accuracy by 32% through transaction risk classification models developed using Python, TensorFlow, XGBoost, SQL, and Scikit-learn across enterprise payment processing and anomaly detection environments. Reduced customer query handling time by 40% after implementing LLM-powered automation workflows using LangChain, OpenAI APIs, FastAPI, and vector embeddings across enterprise financial support and service operations. Lowered real-time transaction scoring latency by 28% through scalable machine learning pipelines engineered using PySpark, Kafka, AWS SageMaker, and PostgreSQL across high-volume enterprise fintech processing environments successfully. Improved personalized product engagement by 22% through recommendation systems built using collaborative filtering, behavioral analytics, and customer segmentation techniques supporting enterprise digital banking and financial recommendation platforms. Increased predictive model precision by 26% using feature engineering, hyperparameter optimization, ensemble learning, and imbalance handling techniques across enterprise fraud analytics and machine learning classification workflows successfully. Accelerated production deployment cycles by 35% through CI/CD automation, MLflow workflows, Docker containerization, and Kubernetes orchestration supporting scalable machine learning deployment and monitoring across enterprise artificial intelligence environments. Improved real-time prediction throughput by 30% after developing FastAPI-based inference services integrated with AWS cloud infrastructure supporting secure enterprise machine learning and predictive analytics application environments successfully. Reduced operational investigation efforts by 25% through predictive anomaly monitoring solutions delivered collaboratively with analytics and engineering teams supporting enterprise transaction intelligence and financial compliance monitoring initiatives consistently.",
+      "location": "",
+      "achievements": [
+        "Increased fraud detection accuracy by 32% through transaction risk classification models developed using Python, TensorFlow, XGBoost, SQL, and Scikit-learn across enterprise payment processing and anomaly detection environments.",
+        "Reduced customer query handling time by 40% after implementing LLM-powered automation workflows using LangChain, OpenAI APIs, FastAPI, and vector embeddings across enterprise financial support and service operations.",
+        "Lowered real-time transaction scoring latency by 28% through scalable machine learning pipelines engineered using PySpark, Kafka, AWS SageMaker, and PostgreSQL across high-volume enterprise fintech processing environments successfully.",
+        "Improved personalized product engagement by 22% through recommendation systems built using collaborative filtering, behavioral analytics, and customer segmentation techniques supporting enterprise digital banking and financial recommendation platforms.",
+        "Increased predictive model precision by 26% using feature engineering, hyperparameter optimization, ensemble learning, and imbalance handling techniques across enterprise fraud analytics and machine learning classification workflows successfully.",
+        "Accelerated production deployment cycles by 35% through CI/CD automation, MLflow workflows, Docker containerization, and Kubernetes orchestration supporting scalable machine learning deployment and monitoring across enterprise artificial intelligence environments.",
+        "Improved real-time prediction throughput by 30% after developing FastAPI-based inference services integrated with AWS cloud infrastructure supporting secure enterprise machine learning and predictive analytics application environments successfully.",
+        "Reduced operational investigation efforts by 25% through predictive anomaly monitoring solutions delivered collaboratively with analytics and engineering teams supporting enterprise transaction intelligence and financial compliance monitoring initiatives consistently."
+      ],
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "XGBoost",
+        "SQL",
+        "Scikit-learn",
+        "LangChain",
+        "OpenAI APIs",
+        "FastAPI",
+        "PySpark",
+        "Kafka",
+        "AWS SageMaker",
+        "PostgreSQL",
+        "MLflow",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS"
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Mphasis",
+      "startDate": "May 2021",
+      "endDate": "Jan 2024",
+      "description": "Improved customer risk prediction accuracy by 27% through machine learning models developed using Python, SQL, XGBoost, and Scikit-learn supporting banking analytics, forecasting, and enterprise financial decision making operations successfully. Reduced manual data preparation efforts by 38% after building ETL and preprocessing pipelines using Pandas, PySpark, and SQL across enterprise analytics, machine learning training, and validation environments consistently. Increased document processing efficiency by 33% through NLP-based classification and sentiment analysis solutions implemented using Transformers, TensorFlow, and NLTK across enterprise compliance and reporting workflows successfully. Improved financial forecasting reliability by 24% using ARIMA, Prophet, TensorFlow, and LSTM-based time series forecasting models supporting transaction trend analysis and predictive planning across enterprise reporting systems effectively. Increased model evaluation consistency by 29% through hyperparameter optimization, feature selection, cross validation, and performance assessment using RMSE, AUC, precision-recall, and F1-score evaluation metrics across analytics initiatives. Reduced production deployment timelines by 31% after developing REST-based machine learning APIs using Flask, FastAPI, Docker, and AWS EC2 supporting scalable predictive analytics integration across enterprise application environments successfully. Improved experiment reproducibility by 34% using MLflow-based model tracking, deployment automation, monitoring workflows, and version management across enterprise machine learning development and operational environments consistently. Reduced fraud investigation turnaround time by 21% through predictive analytics and customer intelligence solutions delivered collaboratively with analytics, engineering, and stakeholder teams supporting enterprise financial technology modernization initiatives successfully.",
+      "location": "",
+      "achievements": [
+        "Improved customer risk prediction accuracy by 27% through machine learning models developed using Python, SQL, XGBoost, and Scikit-learn supporting banking analytics, forecasting, and enterprise financial decision making operations successfully.",
+        "Reduced manual data preparation efforts by 38% after building ETL and preprocessing pipelines using Pandas, PySpark, and SQL across enterprise analytics, machine learning training, and validation environments consistently.",
+        "Increased document processing efficiency by 33% through NLP-based classification and sentiment analysis solutions implemented using Transformers, TensorFlow, and NLTK across enterprise compliance and reporting workflows successfully.",
+        "Improved financial forecasting reliability by 24% using ARIMA, Prophet, TensorFlow, and LSTM-based time series forecasting models supporting transaction trend analysis and predictive planning across enterprise reporting systems effectively.",
+        "Increased model evaluation consistency by 29% through hyperparameter optimization, feature selection, cross validation, and performance assessment using RMSE, AUC, precision-recall, and F1-score evaluation metrics across analytics initiatives.",
+        "Reduced production deployment timelines by 31% after developing REST-based machine learning APIs using Flask, FastAPI, Docker, and AWS EC2 supporting scalable predictive analytics integration across enterprise application environments successfully.",
+        "Improved experiment reproducibility by 34% using MLflow-based model tracking, deployment automation, monitoring workflows, and version management across enterprise machine learning development and operational environments consistently.",
+        "Reduced fraud investigation turnaround time by 21% through predictive analytics and customer intelligence solutions delivered collaboratively with analytics, engineering, and stakeholder teams supporting enterprise financial technology modernization initiatives successfully."
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "XGBoost",
+        "Scikit-learn",
+        "Pandas",
+        "PySpark",
+        "Transformers",
+        "TensorFlow",
+        "NLTK",
+        "ARIMA",
+        "Prophet",
+        "LSTM",
+        "Flask",
+        "FastAPI",
+        "Docker",
+        "AWS EC2",
+        "MLflow"
+      ]
+    }
+  ]
+}

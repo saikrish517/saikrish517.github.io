@@ -1,0 +1,293 @@
+{
+  "heading": "SKILLS",
+  "categories": [
+    {
+      "name": "Languages",
+      "icon": "fas fa-code",
+      "items": [
+        {
+          "name": "Python",
+          "icon": "fab fa-python"
+        },
+        {
+          "name": "SQL",
+          "icon": "fas fa-database"
+        },
+        {
+          "name": "R",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Java",
+          "icon": "fab fa-java"
+        }
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "icon": "fas fa-layer-group",
+      "items": [
+        {
+          "name": "TensorFlow",
+          "icon": "fas fa-brain"
+        },
+        {
+          "name": "PyTorch",
+          "icon": "fas fa-brain"
+        },
+        {
+          "name": "Scikit-learn",
+          "icon": "fas fa-chart-bar"
+        },
+        {
+          "name": "Keras",
+          "icon": "fas fa-brain"
+        },
+        {
+          "name": "XGBoost",
+          "icon": "fas fa-circle"
+        },
+        {
+          "name": "LightGBM",
+          "icon": "fas fa-circle"
+        },
+        {
+          "name": "Pandas",
+          "icon": "fas fa-table"
+        },
+        {
+          "name": "NumPy",
+          "icon": "fas fa-calculator"
+        },
+        {
+          "name": "LangChain",
+          "icon": "fas fa-microchip"
+        },
+        {
+          "name": "OpenAI APIs",
+          "icon": "fas fa-robot"
+        },
+        {
+          "name": "Hugging Face Transformers",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "FastAPI",
+          "icon": "fab fa-python"
+        },
+        {
+          "name": "Flask",
+          "icon": "fab fa-python"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "icon": "fas fa-tools",
+      "items": [
+        {
+          "name": "MLflow",
+          "icon": "fas fa-circle"
+        },
+        {
+          "name": "Docker",
+          "icon": "fab fa-docker"
+        },
+        {
+          "name": "Kubernetes",
+          "icon": "fas fa-dharmachakra"
+        },
+        {
+          "name": "CI/CD Pipelines",
+          "icon": "fas fa-microchip"
+        },
+        {
+          "name": "Model Monitoring",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Model Deployment",
+          "icon": "fas fa-circle"
+        },
+        {
+          "name": "AWS (S3, EC2, Lambda, SageMaker)",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Azure",
+          "icon": "fab fa-microsoft"
+        },
+        {
+          "name": "GCP",
+          "icon": "fab fa-google"
+        },
+        {
+          "name": "PySpark",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Kafka",
+          "icon": "fas fa-stream"
+        },
+        {
+          "name": "PostgreSQL",
+          "icon": "fas fa-database"
+        },
+        {
+          "name": "MySQL",
+          "icon": "fas fa-database"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "fas fa-leaf"
+        },
+        {
+          "name": "Snowflake",
+          "icon": "fas fa-snowflake"
+        },
+        {
+          "name": "Power BI",
+          "icon": "fas fa-chart-bar"
+        },
+        {
+          "name": "Tableau",
+          "icon": "fas fa-chart-pie"
+        },
+        {
+          "name": "Matplotlib",
+          "icon": "fas fa-chart-area"
+        },
+        {
+          "name": "Git",
+          "icon": "fab fa-git-alt"
+        },
+        {
+          "name": "GitHub",
+          "icon": "fab fa-github"
+        },
+        {
+          "name": "Linux",
+          "icon": "fab fa-linux"
+        },
+        {
+          "name": "Airflow",
+          "icon": "fas fa-wind"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "icon": "fas fa-book-open"
+        }
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "icon": "fas fa-cogs",
+      "items": [
+        {
+          "name": "Supervised Learning",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Unsupervised Learning",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Deep Learning",
+          "icon": "fas fa-brain"
+        },
+        {
+          "name": "Predictive Modeling",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Classification",
+          "icon": "fas fa-microchip"
+        },
+        {
+          "name": "Regression",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Clustering",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Recommendation Systems",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Fraud Detection",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Time-Series Forecasting",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "LLMs",
+          "icon": "fas fa-circle"
+        },
+        {
+          "name": "Prompt Engineering",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "RAG",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "NLP",
+          "icon": "fas fa-language"
+        },
+        {
+          "name": "Text Analytics",
+          "icon": "fas fa-microchip"
+        },
+        {
+          "name": "Vector Embeddings",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "ETL Pipelines",
+          "icon": "fas fa-circle"
+        },
+        {
+          "name": "Data Processing",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Data Cleaning",
+          "icon": "fas fa-microchip"
+        },
+        {
+          "name": "Feature Engineering",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Agile",
+          "icon": "fas fa-sync-alt"
+        },
+        {
+          "name": "SDLC",
+          "icon": "fas fa-microchip"
+        },
+        {
+          "name": "A/B Testing",
+          "icon": "fas fa-circle"
+        },
+        {
+          "name": "Statistical Analysis",
+          "icon": "fas fa-microchip"
+        },
+        {
+          "name": "Cross-Validation",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Hyperparameter Tuning",
+          "icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  ]
+}

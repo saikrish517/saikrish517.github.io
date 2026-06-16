@@ -1,0 +1,27 @@
+{
+  "heading": "EDUCATION",
+  "entries": [
+    {
+      "degree": "Masters In Data Science",
+      "institution": "Saint Peter's University",
+      "startDate": "2025",
+      "endDate": "",
+      "gpa": "",
+      "honors": []
+    },
+    {
+      "degree": "Bachelor in Electronics and Communication Engineering",
+      "institution": "lovely professional University, India",
+      "startDate": "2023",
+      "endDate": "",
+      "gpa": "",
+      "honors": []
+    }
+  ],
+  "certifications": [
+    "Artificial Intelligence Certification",
+    "AI for Everyone",
+    "Software Engineering Virtual Experience Program"
+  ],
+  "languages": []
+}

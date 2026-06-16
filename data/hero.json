@@ -1,0 +1,127 @@
+{
+  "greeting": "Hi there!",
+  "name": "Sai Krishna Dasari",
+  "description": "Based in NJ, USA. AI/ML Engineer with 4+ years of experience developing machine learning models, NLP applications, recommendation systems, fraud analytics solutions, and scalable AI pipelines using Python, TensorFlow, PyTorch, Scikit-learn, SQL, and AWS.",
+  "tagline": "AI/ML Engineer | Data Scientist",
+  "avatarUrl": "",
+  "socialLinks": [
+    {
+      "icon": "fab fa-github",
+      "url": "https://github.com/saikrish517",
+      "label": "GitHub"
+    },
+    {
+      "icon": "fab fa-linkedin",
+      "url": "https://www.linkedin.com/in/anarv-s-91811a173/",
+      "label": "LinkedIn"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "url": "mailto:saikrishnadasari789@gmail.com",
+      "label": "Email"
+    }
+  ],
+  "techBadges": [
+    {
+      "icon": "fab fa-python",
+      "label": "Python"
+    },
+    {
+      "icon": "fas fa-database",
+      "label": "SQL"
+    },
+    {
+      "icon": "fas fa-chart-line",
+      "label": "R"
+    },
+    {
+      "icon": "fab fa-java",
+      "label": "Java"
+    },
+    {
+      "icon": "fas fa-brain",
+      "label": "TensorFlow"
+    },
+    {
+      "icon": "fas fa-brain",
+      "label": "PyTorch"
+    },
+    {
+      "icon": "fas fa-chart-bar",
+      "label": "Scikit-learn"
+    },
+    {
+      "icon": "fas fa-brain",
+      "label": "Keras"
+    }
+  ],
+  "terminalCommands": {
+    "about": {
+      "title": "About Me",
+      "content": "AI/ML Engineer | Data Scientist with 1+ years of experience building scalable web applications.",
+      "highlights": [
+        "Working with Python",
+        "Working with SQL",
+        "Working with R"
+      ]
+    },
+    "skills": [
+      "Python",
+      "SQL",
+      "R",
+      "Java",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Keras",
+      "XGBoost",
+      "LightGBM",
+      "Pandas",
+      "NumPy",
+      "LangChain",
+      "OpenAI APIs",
+      "Hugging Face Transformers",
+      "FastAPI"
+    ],
+    "experience": [
+      {
+        "company": "Mastercard",
+        "title": "AI/ML Engineer",
+        "period": "Mar 2025 - Present",
+        "location": ""
+      },
+      {
+        "company": "Mphasis",
+        "title": "Machine Learning Engineer",
+        "period": "May 2021 – Jan 2024",
+        "location": ""
+      }
+    ],
+    "education": [
+      {
+        "degree": "Masters In Data Science",
+        "institution": "Saint Peter's University",
+        "period": "Nov 2025"
+      },
+      {
+        "degree": "Bachelor in Electronics and Communication Engineering",
+        "institution": "lovely professional University, India",
+        "period": "Apr 2023"
+      }
+    ],
+    "contact": {
+      "email": "saikrishnadasari789@gmail.com",
+      "website": "",
+      "github": "github.com/saikrish517",
+      "linkedin": "https://www.linkedin.com/in/anarv-s-91811a173/"
+    }
+  },
+  "terminalLines": [
+    "$ whoami",
+    "Sai Krishna Dasari",
+    "$ cat role.txt",
+    "AI/ML Engineer | Data Scientist",
+    "$ ls skills/",
+    "Python  SQL  R  Java  TensorFlow"
+  ]
+}

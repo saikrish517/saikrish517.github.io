@@ -1,0 +1,76 @@
+{
+  "heading": "Projects",
+  "projects": [
+    {
+      "name": "Water Demand Forecasting using Time-Series Models",
+      "description": "Developed a water demand forecasting framework using ARIMA, LSTM, TensorFlow, Keras, Pandas, and NumPy, improving prediction accuracy by 30% through comparative statistical and deep learning model evaluation. Processed large-scale time-series datasets by correcting missing values, identifying seasonal patterns, and improving trend consistency using Pandas and NumPy supporting accurate forecasting and reliable analytical reporting workflows. Reduced forecasting error rates by 25% through ARIMA parameter optimization, LSTM hyperparameter tuning, and RMSE and MAE-based model evaluation techniques across demand prediction and forecasting scenarios successfully. Created interactive forecasting visualizations using Matplotlib and Power BI supporting demand monitoring, operational planning, resource allocation analysis, and enterprise data-driven decision-making initiatives effectively across reporting environments.",
+      "technologies": [
+        "ARIMA",
+        "LSTM",
+        "TensorFlow",
+        "Keras",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Power BI"
+      ],
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "name": "generating-synthetic-data-using-gans",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "liveUrl": "https://github.com/saikrish517/generating-synthetic-data-using-gans",
+      "githubUrl": "https://github.com/saikrish517/generating-synthetic-data-using-gans"
+    },
+    {
+      "name": "computer-vision-projects",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "liveUrl": "https://github.com/saikrish517/computer-vision-projects",
+      "githubUrl": "https://github.com/saikrish517/computer-vision-projects"
+    },
+    {
+      "name": "create-million-parameter-llm-from-scratch",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "liveUrl": "https://github.com/saikrish517/create-million-parameter-llm-from-scratch",
+      "githubUrl": "https://github.com/saikrish517/create-million-parameter-llm-from-scratch"
+    },
+    {
+      "name": "mlops-app",
+      "description": "Learning project built with modern web technologies",
+      "technologies": [
+        "HCL",
+        "Python",
+        "Jupyter Notebook",
+        "Dockerfile",
+        "Shell"
+      ],
+      "liveUrl": "https://github.com/saikrish517/mlops-app",
+      "githubUrl": "https://github.com/saikrish517/mlops-app"
+    },
+    {
+      "name": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "technologies": [],
+      "liveUrl": "https://github.com/saikrish517/contribution-history",
+      "githubUrl": "https://github.com/saikrish517/contribution-history"
+    },
+    {
+      "name": "multimodal-live-rag-voice",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [],
+      "liveUrl": "https://github.com/saikrish517/multimodal-live-rag-voice",
+      "githubUrl": "https://github.com/saikrish517/multimodal-live-rag-voice"
+    }
+  ]
+}

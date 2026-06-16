@@ -1,0 +1,41 @@
+{
+  "brandName": "SAI KRISHNA DASARI",
+  "brandTitle": "AI/ML Engineer | Data Scientist",
+  "navLinks": [
+    {
+      "label": "Home",
+      "href": "#hero"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    }
+  ],
+  "socialLinks": [
+    {
+      "icon": "fab fa-github",
+      "url": "https://github.com/saikrish517",
+      "label": "GitHub"
+    },
+    {
+      "icon": "fab fa-linkedin",
+      "url": "https://www.linkedin.com/in/anarv-s-91811a173/",
+      "label": "LinkedIn"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "url": "mailto:saikrishnadasari789@gmail.com",
+      "label": "Email"
+    }
+  ],
+  "copyright": "Sai Krishna Dasari",
+  "year": "2026"
+}
