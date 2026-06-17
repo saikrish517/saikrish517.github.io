@@ -303,10 +303,15 @@
       <div class="timeline-item-flat">
         <div class="timeline-dot"></div>
         <div class="timeline-content-flat">
-          <h4 class="timeline-title">${escapeHtml(pos.title)} @ ${escapeHtml(pos.company)}</h4>
-          <p class="timeline-date">${escapeHtml(pos.startDate)} - ${escapeHtml(pos.endDate || 'Present')}</p>
+          <div class="timeline-head">
+            ${pos.logo ? `<img class="org-logo" src="${pos.logo}" alt="${escapeHtml(pos.company)} logo" loading="lazy">` : ''}
+            <div class="timeline-headtext">
+              <h4 class="timeline-title">${escapeHtml(pos.title)} @ ${escapeHtml(pos.company)}</h4>
+              <p class="timeline-date">${escapeHtml(pos.startDate)} - ${escapeHtml(pos.endDate || 'Present')}</p>
+            </div>
+          </div>
           <p class="timeline-description">${escapeHtml(pos.description)}</p>
-          <p class="timeline-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(pos.location || '')}</p>
+          ${pos.location ? `<p class="timeline-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(pos.location)}</p>` : ''}
         </div>
       </div>`
       )
@@ -391,13 +396,14 @@
         const entry = data.entries[0]; // Primary entry
         card.innerHTML = `
           <div class="education-header">
-            <div>
+            ${entry.logo ? `<img class="org-logo" src="${entry.logo}" alt="${escapeHtml(entry.institution)} logo" loading="lazy">` : ''}
+            <div class="education-headtext">
               <h3 class="education-title">${escapeHtml(entry.degree)}</h3>
               <p class="education-school">${escapeHtml(entry.institution)}</p>
             </div>
-            <span class="badge">${escapeHtml(entry.startDate || '')} - ${escapeHtml(entry.endDate || '')}</span>
+            <span class="badge">${escapeHtml(entry.endDate ? `${entry.startDate} - ${entry.endDate}` : (entry.startDate || ''))}</span>
           </div>
-          <p class="education-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(entry.location || '')}</p>`;
+          ${entry.location ? `<p class="education-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(entry.location)}</p>` : ''}`;
 
         // If multiple entries, append more
         if (data.entries.length > 1) {
@@ -407,13 +413,14 @@
             extraCard.style.marginTop = '1rem';
             extraCard.innerHTML = `
               <div class="education-header">
-                <div>
+                ${e.logo ? `<img class="org-logo" src="${e.logo}" alt="${escapeHtml(e.institution)} logo" loading="lazy">` : ''}
+                <div class="education-headtext">
                   <h3 class="education-title">${escapeHtml(e.degree)}</h3>
                   <p class="education-school">${escapeHtml(e.institution)}</p>
                 </div>
-                <span class="badge">${escapeHtml(e.startDate || '')} - ${escapeHtml(e.endDate || '')}</span>
+                <span class="badge">${escapeHtml(e.endDate ? `${e.startDate} - ${e.endDate}` : (e.startDate || ''))}</span>
               </div>
-              <p class="education-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(e.location || '')}</p>`;
+              ${e.location ? `<p class="education-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(e.location)}</p>` : ''}`;
             card.after(extraCard);
           });
         }

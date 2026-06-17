@@ -2,8 +2,8 @@
   "heading": "Projects",
   "projects": [
     {
-      "name": "Water Demand Forecasting using Time-Series Models",
-      "description": "Developed a water demand forecasting framework using ARIMA, LSTM, TensorFlow, Keras, Pandas, and NumPy, improving prediction accuracy by 30% through comparative statistical and deep learning model evaluation. Processed large-scale time-series datasets by correcting missing values, identifying seasonal patterns, and improving trend consistency using Pandas and NumPy supporting accurate forecasting and reliable analytical reporting workflows. Reduced forecasting error rates by 25% through ARIMA parameter optimization, LSTM hyperparameter tuning, and RMSE and MAE-based model evaluation techniques across demand prediction and forecasting scenarios successfully. Created interactive forecasting visualizations using Matplotlib and Power BI supporting demand monitoring, operational planning, resource allocation analysis, and enterprise data-driven decision-making initiatives effectively across reporting environments.",
+      "name": "Water Demand Forecasting (Time-Series)",
+      "description": "Forecasting framework comparing ARIMA and LSTM models on large-scale water-demand time series. Handled missing values and seasonality, tuned hyperparameters against RMSE/MAE, and built Matplotlib and Power BI dashboards for demand monitoring — improving forecast accuracy ~30%.",
       "technologies": [
         "ARIMA",
         "LSTM",
@@ -18,8 +18,8 @@
       "githubUrl": ""
     },
     {
-      "name": "generating-synthetic-data-using-gans",
-      "description": "Modern web application demonstrating clean code principles",
+      "name": "Synthetic Data Generation with GANs",
+      "description": "Generative adversarial network experiments for producing synthetic tabular and image data, with training notebooks and evaluation of sample fidelity.",
       "technologies": [
         "Jupyter Notebook"
       ],
@@ -27,8 +27,8 @@
       "githubUrl": "https://github.com/saikrish517/generating-synthetic-data-using-gans"
     },
     {
-      "name": "computer-vision-projects",
-      "description": "Portfolio project showcasing development capabilities",
+      "name": "Computer Vision Projects",
+      "description": "A collection of computer-vision notebooks covering image classification and object-detection workflows in Python.",
       "technologies": [
         "Jupyter Notebook",
         "Python"
@@ -37,8 +37,8 @@
       "githubUrl": "https://github.com/saikrish517/computer-vision-projects"
     },
     {
-      "name": "create-million-parameter-llm-from-scratch",
-      "description": "Modern web application demonstrating clean code principles",
+      "name": "Million-Parameter LLM from Scratch",
+      "description": "A ~1M-parameter language model built from first principles — tokenization, transformer blocks, and the training loop implemented from scratch in a notebook.",
       "technologies": [
         "Jupyter Notebook"
       ],
@@ -46,8 +46,8 @@
       "githubUrl": "https://github.com/saikrish517/create-million-parameter-llm-from-scratch"
     },
     {
-      "name": "mlops-app",
-      "description": "Learning project built with modern web technologies",
+      "name": "MLOps Pipeline",
+      "description": "End-to-end MLOps setup with containerized training and serving, infrastructure-as-code (Terraform/HCL), and shell automation for reproducible deployment.",
       "technologies": [
         "HCL",
         "Python",
@@ -59,16 +59,13 @@
       "githubUrl": "https://github.com/saikrish517/mlops-app"
     },
     {
-      "name": "contribution-history",
-      "description": "Generated GitHub contribution history",
-      "technologies": [],
-      "liveUrl": "https://github.com/saikrish517/contribution-history",
-      "githubUrl": "https://github.com/saikrish517/contribution-history"
-    },
-    {
-      "name": "multimodal-live-rag-voice",
-      "description": "Portfolio project showcasing development capabilities",
-      "technologies": [],
+      "name": "Multimodal Live RAG (Voice)",
+      "description": "Real-time multimodal retrieval-augmented-generation assistant with voice input and streaming responses over a live RAG pipeline.",
+      "technologies": [
+        "Python",
+        "RAG",
+        "LLM"
+      ],
       "liveUrl": "https://github.com/saikrish517/multimodal-live-rag-voice",
       "githubUrl": "https://github.com/saikrish517/multimodal-live-rag-voice"
     }

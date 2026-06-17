@@ -3,12 +3,6 @@
   "subheading": "Let's build something amazing together",
   "links": [
     {
-      "icon": "fab fa-linkedin",
-      "label": "LinkedIn",
-      "url": "https://www.linkedin.com/in/anarv-s-91811a173/",
-      "color": "#66d9ef"
-    },
-    {
       "icon": "fab fa-github",
       "label": "GitHub",
       "url": "https://github.com/saikrish517",

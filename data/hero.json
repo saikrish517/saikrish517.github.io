@@ -11,11 +11,6 @@
       "label": "GitHub"
     },
     {
-      "icon": "fab fa-linkedin",
-      "url": "https://www.linkedin.com/in/anarv-s-91811a173/",
-      "label": "LinkedIn"
-    },
-    {
       "icon": "fas fa-envelope",
       "url": "mailto:saikrishnadasari789@gmail.com",
       "label": "Email"
@@ -58,7 +53,7 @@
   "terminalCommands": {
     "about": {
       "title": "About Me",
-      "content": "AI/ML Engineer | Data Scientist with 1+ years of experience building scalable web applications.",
+      "content": "AI/ML Engineer & Data Scientist with 4+ years building ML models, NLP/LLM applications, and scalable AI pipelines.",
       "highlights": [
         "Working with Python",
         "Working with SQL",
@@ -113,7 +108,7 @@
       "email": "saikrishnadasari789@gmail.com",
       "website": "",
       "github": "github.com/saikrish517",
-      "linkedin": "https://www.linkedin.com/in/anarv-s-91811a173/"
+      "linkedin": ""
     }
   },
   "terminalLines": [

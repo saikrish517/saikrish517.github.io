@@ -19,13 +19,13 @@ html {
     --bg: #ffffff;
     --text: #000000;
     --border: #000000;
-    --primary: #66d9ef;
-    --secondary: #ffd93d;
-    --accent: #a8e6cf;
-    --pink: #ff6b9d;
+    --primary: #2563ff;
+    --secondary: #ffb627;
+    --accent: #84cc16;
+    --pink: #d6336c;
     --white: #ffffff;
-    --yellow: #ffd93d;
-    --cyan: #66d9ef;
+    --yellow: #ffb627;
+    --cyan: #2563ff;
     --shadow-offset: 4px;
     --border-width: 3px;
     --page-bg: #d0d0d0;
@@ -34,14 +34,14 @@ html {
 body[data-theme="dark"] {
     --bg: #1a1a1a;
     --text: #ffffff;
-    --border: #a8e6cf;
+    --border: #84cc16;
     --white: #2a2a2a;
     --page-bg: #0a0a0a;
 }
 
 /* ---------- Body ---------- */
 body {
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
     background: var(--page-bg);
     color: var(--text);
     line-height: 1.6;
@@ -145,7 +145,7 @@ body::-webkit-scrollbar-thumb {
 .loader-letter {
     font-size: 6rem;
     font-weight: 700;
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Bricolage Grotesque', sans-serif;
     background: var(--white);
     border: 6px solid var(--border);
     box-shadow: 12px 12px 0 var(--border);
@@ -557,7 +557,7 @@ body[data-theme="dark"] .page-wrapper {
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--pink);
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
 }
 
 .typewriter-cursor {
@@ -673,14 +673,14 @@ body[data-theme="dark"] .page-wrapper {
 
 .terminal-title {
     color: #cdd6f4;
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 0.85rem;
     opacity: 0.7;
 }
 
 .terminal-body {
     padding: 1.25rem;
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 0.85rem;
     color: #cdd6f4;
     line-height: 1.8;
@@ -944,12 +944,12 @@ body[data-theme="dark"] .page-wrapper {
     font-size: 1.1rem;
     font-weight: 600;
     color: var(--cyan);
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
 }
 
 .timeline-date {
     font-size: 0.85rem;
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     color: var(--text);
     opacity: 0.7;
     padding: 0.25rem 0.75rem;
@@ -1011,7 +1011,7 @@ body[data-theme="dark"] .page-wrapper {
     border: 2px solid var(--border);
     font-size: 0.8rem;
     font-weight: 600;
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     transition: all 0.2s ease;
 }
 
@@ -1245,7 +1245,7 @@ body[data-theme="dark"] .page-wrapper {
     font-size: 1.1rem;
     font-weight: 600;
     color: var(--cyan);
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     margin-bottom: 0.5rem;
 }
 
@@ -1255,7 +1255,7 @@ body[data-theme="dark"] .page-wrapper {
     flex-wrap: wrap;
     margin-bottom: 0.75rem;
     font-size: 0.9rem;
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     opacity: 0.7;
 }
 
@@ -1465,7 +1465,7 @@ body[data-theme="dark"] .page-wrapper {
 }
 
 .contact-card .contact-detail {
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 0.85rem;
     opacity: 0.7;
 }
@@ -1525,7 +1525,7 @@ body[data-theme="dark"] .footer {
 }
 
 .footer-brand-title {
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 0.9rem;
     opacity: 0.7;
 }
@@ -1606,7 +1606,7 @@ body[data-theme="dark"] .footer {
     border-top: 3px solid rgba(255,255,255,0.1);
     padding: 1.25rem 3rem;
     text-align: center;
-    font-family: 'Space Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 0.85rem;
     opacity: 0.6;
 }
@@ -2014,14 +2014,14 @@ body[data-theme="dark"] .highlight-green {
 .terminal-dot.green { background: #27c93f; }
 .terminal-title {
   color: #cdd6f4;
-  font-family: "Space Mono", monospace;
+  font-family: "JetBrains Mono", monospace;
   font-size: 0.85rem;
   opacity: 0.7;
   margin-left: 0.5rem;
 }
 .terminal-body {
   padding: 1.25rem;
-  font-family: "Space Mono", monospace;
+  font-family: "JetBrains Mono", monospace;
   font-size: 0.85rem;
   color: #cdd6f4;
   line-height: 1.8;
@@ -2149,7 +2149,7 @@ body[data-theme="dark"] .highlight-green {
   font-weight: 700;
 }
 .footer-brand-compact span {
-  font-family: "Space Mono", monospace;
+  font-family: "JetBrains Mono", monospace;
   font-size: 0.85rem;
   opacity: 0.6;
 }
@@ -2193,7 +2193,74 @@ body[data-theme="dark"] .highlight-green {
   margin-top: 1.5rem;
   padding-top: 1rem;
   text-align: center;
-  font-family: "Space Mono", monospace;
+  font-family: "JetBrains Mono", monospace;
   font-size: 0.8rem;
   opacity: 0.5;
+}
+
+.hero-name, .section-title, .section-title-center, .loader-letter, .nav-brand, .skill-box-title, .skills-grid-modern .skill-box-title, .project-name, .timeline-job-title, .timeline-header, .certifications-title, .languages-title, .footer-brand-compact strong { font-family: 'Bricolage Grotesque', sans-serif; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+  .section, .skill-box, .timeline-item { opacity: 1 !important; }
+  .loader-overlay { display: none !important; }
+}
+
+/* ── Org logos + journey/education headers (logo integration) ── */
+.timeline-head {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.65rem;
+}
+.timeline-headtext { display: flex; flex-direction: column; gap: 0.15rem; }
+.education-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+.education-headtext { display: flex; flex-direction: column; gap: 0.15rem; }
+.education-header .badge { margin-left: auto; }
+
+.org-logo {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  object-fit: contain;
+  background: #fff;
+  border: var(--border-width) solid var(--border);
+  border-radius: 8px;
+  padding: 5px;
+  box-shadow: 3px 3px 0 var(--border);
+  image-rendering: -webkit-optimize-contrast;
+}
+
+.timeline-title,
+.education-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0;
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
+.education-school {
+  margin: 0;
+  color: var(--cyan);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.95rem;
+}
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.7rem;
+  background: var(--yellow);
+  border: 2px solid var(--border);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  font-weight: 600;
+  white-space: nowrap;
 }

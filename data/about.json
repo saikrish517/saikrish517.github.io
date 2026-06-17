@@ -9,7 +9,7 @@
       "text": "Experienced ai/ml engineer | data scientist with {yearsExp} of hands-on experience across {industries}.",
       "highlights": [
         {
-          "text": "1+ years",
+          "text": "4+ years",
           "color": "yellow",
           "key": "yearsExp"
         },

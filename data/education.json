@@ -2,20 +2,22 @@
   "heading": "EDUCATION",
   "entries": [
     {
-      "degree": "Masters In Data Science",
+      "degree": "Master's in Data Science",
       "institution": "Saint Peter's University",
       "startDate": "2025",
       "endDate": "",
       "gpa": "",
-      "honors": []
+      "honors": [],
+      "logo": "assets/img/logos/saintpeters.png"
     },
     {
       "degree": "Bachelor in Electronics and Communication Engineering",
-      "institution": "lovely professional University, India",
+      "institution": "Lovely Professional University, India",
       "startDate": "2023",
       "endDate": "",
       "gpa": "",
-      "honors": []
+      "honors": [],
+      "logo": "assets/img/logos/lpu.png"
     }
   ],
   "certifications": [
